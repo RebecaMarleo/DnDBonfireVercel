@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.dndbonfire",
+      "sha256_cert_fingerprints": [
+        "3B:2C:BD:31:8A:ED:21:B4:76:23:C2:49:F4:06:FE:1F:AB:E7:6D:0C:70:2C:01:D0:C5:4D:1F:38:DC:13:03:A7",
+	      "09:0C:75:61:06:5D:7F:FF:69:9A:9D:C7:96:00:48:20:D5:72:4E:AA:78:E9:46:BD:99:A5:DB:91:CE:CE:60:4B"
+      ]
+    }
+  }
+]
